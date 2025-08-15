@@ -74,4 +74,4 @@ npm test
 - Chrome extension for Netflix integration
 - Web interface for easier usage
 - Support for more languages
-- Advanced vocabulary tracking 
+- Advanced vocabulary tracking # smartsub
